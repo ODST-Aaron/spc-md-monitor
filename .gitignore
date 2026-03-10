@@ -1,0 +1,9 @@
+# Cache files — contain runtime state, not for version control
+seen_mds.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
