@@ -26,6 +26,9 @@ Designed as a companion to [nws-realtime-alerts](https://github.com/ODST-Aaron/n
 ### Startup Notification
 ![Startup Notification](docs/screenshots/startup_embed.png)
 
+### Shutdown Notification
+![Shutdown Notification](docs/screenshots/shutdown_embed.png)
+
 ---
 
 ## Requirements
