@@ -18,6 +18,16 @@ Designed as a companion to [nws-realtime-alerts](https://github.com/ODST-Aaron/n
 
 ---
 
+## Discord Embed Examples
+
+### MD Alert
+![MD Alert Embed](docs/screenshots/md_alert_embed.png)
+
+### Startup Notification
+![Startup Notification](docs/screenshots/startup_embed.png)
+
+---
+
 ## Requirements
 
 ```
